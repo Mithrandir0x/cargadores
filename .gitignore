@@ -1,0 +1,7 @@
+
+# OSX shit
+.DS_Store
+
+# Executables
+*.COM
+*.EXE
