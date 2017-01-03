@@ -1,3 +1,4 @@
+00 '{"game": "Wizkid 2", "author": "Pablo Fernández García", "epoch": 2, "issue": 57, "notes": false}
 10 ' CARGADOR DEL WIZKID-OCEAN
 20 ' PARA MICROMANIA DE PABLO FERNANDEZ GARCIA.
 30 DIM D%(170):M=1:FOR C=1 TO 10:READ A$

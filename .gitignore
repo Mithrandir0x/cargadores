@@ -5,3 +5,11 @@
 # Executables
 *.COM
 *.EXE
+
+# Disassembly stuff
+*.asm
+*.dis
+
+# Python stuff
+*.py
+*.pyc

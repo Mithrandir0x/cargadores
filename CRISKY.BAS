@@ -1,3 +1,4 @@
+00 '{"game": "Risky Woods", "author": "Pedro Jos Rodríguez", "epoch": 2, "issue": 58, "notes": true}
 10 REM Cargador "Risky Woods"
 20 REM Pedro Jos Rodriguez 31-12-92
 30 DEF FNN=(A$="N" OR A$="n"):CLS:C$="":C=0:RESTORE:LON=151

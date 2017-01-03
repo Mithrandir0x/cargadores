@@ -1,3 +1,4 @@
+00 '{"game": "Xenon 2 - Megablast", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 28, "notes": false}
 10 ' CARGADOR PARA EL XENON2 (PC, CGA-TANDY-EGA-VGA)
 20 ' *** POR JAVIER SANCHEZ FRANSESCH ***
 30 CLS:KEY OFF:DIM D%(255)

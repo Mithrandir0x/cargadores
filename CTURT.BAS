@@ -1,3 +1,4 @@
+00 '{"game": "Teenage Mutant Ninja Turtles 2", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 50, "notes": false}
 10 ' CARGADOR PARA EL TORTUGAS NINJA 2 (PC, TODAS LAS TARJETAS)
 20 '***** POR JAVIER SANCHEZ FRANSESCH *****
 30 DIM D% (500):LINEAS = 5:CLS
