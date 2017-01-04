@@ -1,4 +1,4 @@
-00 '{"game": "Heimdall 2: Into the Hall of Worlds", "author": "P.J.R.", "epoch": 3, "issue": 1, "notes": false}
+00 '{"game": "Heimdall 2: Into the Hall of Worlds", "author": "P.J.R.", "epoch": 3, "issue": 1}
 10 REM Cargador "Heimdall 2"
 20 REM P.J.R
 30 DEF FNN=(A$="N" OR A$="n"):CLS:C$="":C=0:RESTORE:LON=200

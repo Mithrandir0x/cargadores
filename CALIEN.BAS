@@ -1,4 +1,4 @@
-00 '{"game": "Alien Breed", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 68, "notes": false}
+00 '{"game": "Alien Breed", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 68}
 10 '** CARGADOR PARA EL ALIEN BREED  (PC, TODAS LAS TARJETAS) **
 20 '*******  POR JAVIER SANCHEZ FRANSESCH   SEVILLA 1993 *******
 30 '****************** MIKE OLDFIELD FOREVER !  ****************

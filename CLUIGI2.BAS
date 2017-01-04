@@ -1,4 +1,4 @@
-00 '{"game": "Luigi en Circusland", "author": "J.S.F.", "epoch": 3, "issue": 12, "notes": false}
+00 '{"game": "Luigi en Circusland", "author": "J.S.F.", "epoch": 3, "issue": 12}
 10 '*** CARGADOR PARA EL LUIGI EN CIRCUSLAND (PC, TODAS LAS TARJETAS) ***
 20 '**** POR J.S.F. ****
 30 LINEAS = 9:DIM D% (LINEAS*22):CLS

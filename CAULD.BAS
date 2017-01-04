@@ -1,4 +1,4 @@
-00 '{"game": "Super Cauldron", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 59, "notes": false}
+00 '{"game": "Super Cauldron", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 59}
 10 'CARGADOR PARA EL SUPER CAULDRON (PC, TODAS LAS TARJETAS)
 20 '***** POR JAVIER SANCHEZ FRANSESCH  SEVILLA 1993 *****
 30 DIM D% (500):LINEAS = 5:CLS

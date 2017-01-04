@@ -1,4 +1,4 @@
-00 '{"game": "Elf", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 51, "notes": false}
+00 '{"game": "Elf", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 51}
 10 ' CARGADOR PARA EL ELF (PC, TODAS LAS TARJETAS)
 20 '***** POR JAVIER SANCHEZ FRANSESCH *****
 30 DIM D% (500):LINEAS = 6:CLS

@@ -1,4 +1,4 @@
-00 '{"game": "Bunny Bricks", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 57, "notes": false}
+00 '{"game": "Bunny Bricks", "author": "Javier Sánchez Fransesch", "epoch": 2, "issue": 57}
 10 'CARGADOR PARA EL BUNNY BRICKS (PC, TODAS LAS TARJETAS)
 20 '***** POR JAVIER SANCHEZ FRANSESCH  SEVILLA 1992 *****
 30 DIM D% (500):LINEAS = 7:CLS
