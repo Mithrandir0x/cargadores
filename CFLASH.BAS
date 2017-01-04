@@ -1,4 +1,4 @@
-00 '{"game": "Flashback", "author": "Jesús Pérez Sicilia", "epoch": 2, "issue": 64, "notes": false}
+00 '{"game": "Flashback", "author": "Jesús Pérez Sicilia", "epoch": 2, "issue": 64}
 10 REM -----------------------------------------------------------
 20 REM Cargador de FLASHBACK    JESUS PEREZ SICILIA    CORDOBA '93
 30 REM -----------------------------------------------------------
